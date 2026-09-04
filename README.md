@@ -138,7 +138,3 @@ docker service ps apexriders_web
 GitHub: [@GideonRabi1319](https://github.com/GideonRabi1319)
 
 ---
-
-## 📄 License
-
-This project is available for personal/portfolio use. Add a license of your choice (MIT recommended) if you plan to open it up further.
